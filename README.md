@@ -1,5 +1,5 @@
-# 🛒 TASK 7: Basic Sales Summary from SQLite Database using Python  
-**Data Analyst Internship - MSME**
+#  TASK 7: Basic Sales Summary from SQLite Database using Python  
+
 
 ##  Objective  
 Use SQL inside Python to:
@@ -9,7 +9,7 @@ Use SQL inside Python to:
 
 ---
 
-## 🛠 Tools Used  
+##  Tools Used  
 - **Python** (`sqlite3`, `pandas`, `matplotlib`)  
 - **SQLite** (built into Python, no setup needed)  
 - **Jupyter Notebook** for development  
